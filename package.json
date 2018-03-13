@@ -1,0 +1,35 @@
+{
+  "dependencies": {
+    "alexa-sdk": "^1.0.25"
+  },
+  "name": "alexaskill-lambdaexample",
+  "version": "1.0.0",
+  "description": "Enables the setup of a Node.js test environment for an Alexa Skill's AWS Lambda Function.",
+  "main": "example.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/georgemck/alexaskill-lambdaexample.git"
+  },
+  "keywords": [
+    "Alexa",
+    "Skillkit",
+    "Skill",
+    "Node",
+    "Nodejs",
+    "Server",
+    "AlexaSDK",
+    "Lambda",
+    "AWS",
+    "Amazon"
+  ],
+  "author": "George McKinney",
+  "license": "ISC OR GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/georgemck/alexaskill-lambdaexample/issues"
+  },
+  "homepage": "https://github.com/georgemck/alexaskill-lambdaexample#readme"
+}
